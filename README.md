@@ -19,7 +19,7 @@ Everything is done.
 
 files is the source folder, that means you have to write the folder's name where your files are.
 
-essays is the target folder, it means is the folder where the files will be copied with the names changed.
+essays is the target folder, it means is the folder where the files will be copied with the names changed (you just give the name, it will create the folder, like in the example from above with "essays").
 
 
 ## How it should look to work

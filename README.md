@@ -27,7 +27,6 @@ essays is the target folder, it means is the folder where the files will be copi
 
 ```
 Folder with the files
- - files
 sorting.py
 ```
 The folder from where you want to sort your files should be in the same directory as the sorting.py script.

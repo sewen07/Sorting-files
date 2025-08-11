@@ -54,10 +54,3 @@ There you can make suggestions or leave feedbacks for my projects. I'll read the
 For this project I used MIT License.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
-
-
-## Author
-
-- [@Antonio-Balea](https://github.com/Antonio-Balea)
-
